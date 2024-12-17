@@ -1,9 +1,9 @@
 [project]
-name = "py-dotscript"
+name = "dotscript"
 authors = [
   { name="Xpo Development", email="dev@xpo.dev" },
 ]
-description = "Making Python simlper"
+description = "Making Python simpler"
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
