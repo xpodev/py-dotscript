@@ -1,11 +1,11 @@
-# py-dotscript
+# dotscript
 
 Making Python simlper
 
 ## Installation
 
 ```shell
-pip install py-dotscript
+pip install dotscript
 ```
 
 ## Usage
